@@ -3,7 +3,7 @@
 
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header") 
 
-Hi, I'm **Islom** 👋
+Hi, I'm **Fayyozjon** 👋
 
 I'm a **Junior Data Scientist and AI Developer** and very passionate about Machine Learning, Deep Learnig and Data Science.
 
