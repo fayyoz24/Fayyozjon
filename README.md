@@ -11,7 +11,7 @@ I'm a **Junior Data Scientist and AI Developer** and very passionate about Machi
 
 - 😅 **Fun fact:** I like to travel around the world.
 - ### Activities:
-<img src="https://github-readme-stats.vercel.app/api?username=fayyoz24&show_icons=true&theme=great-gatsby" alt="fayyoz24" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayyoz24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=fayyoz24&show_icons=true&theme=great-gatsby" alt="Fayyozjon" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayyoz24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## :computer: Programming languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
